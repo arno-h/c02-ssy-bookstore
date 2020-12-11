@@ -1,5 +1,5 @@
 {
-  "name": "demo1",
+  "name": "c02-ssy-bookstore",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -7,14 +7,13 @@
     "monitor": "nodemon ./bin/www"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "body-parser": "^1.19.0",
-    "debug": "^4.1.1",
+    "axios": "^0.21.0",
+    "debug": "^4.3.1",
     "express": "^4.17.1",
-    "lokijs": "^1.5.8",
+    "lokijs": "^1.5.11",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.6"
   }
 }
